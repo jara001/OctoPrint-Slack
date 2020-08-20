@@ -14,20 +14,20 @@ plugin_package = "octoprint_%s" % plugin_identifier
 plugin_name = "OctoPrint-Slack"
 
 # The plugin's version. Can be overwritten within OctoPrint's internal data via __plugin_version__ in the plugin module
-plugin_version = "0.2.3"
+plugin_version = "0.2.4"
 
 # The plugin's description. Can be overwritten within OctoPrint's internal data via __plugin_description__ in the plugin
 # module
 plugin_description = "Slack integration for OctoPrint"
 
 # The plugin's author. Can be overwritten within OctoPrint's internal data via __plugin_author__ in the plugin module
-plugin_author = "Richard Joyce"
+plugin_author = "Jaroslav Klapálek"
 
 # The plugin's author's mail address.
-plugin_author_email = "rjoyce@rjoyce.me"
+plugin_author_email = "klapajar@fel.cvut.cz"
 
 # The plugin's homepage URL. Can be overwritten within OctoPrint's internal data via __plugin_url__ in the plugin module
-plugin_url = "https://github.com/richjoyce/OctoPrint-Slack"
+plugin_url = "https://github.com/jara001/OctoPrint-Slack"
 
 # The plugin's license. Can be overwritten within OctoPrint's internal data via __plugin_license__ in the plugin module
 plugin_license = "MIT"
